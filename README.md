@@ -1,6 +1,6 @@
 # Mini Gestion Bancaire
 Projet de base de données réalisé en SQL.
-## Table
+## Tables
 - Client
 - Compte
 - Transaction
