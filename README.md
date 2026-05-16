@@ -9,3 +9,5 @@ Projet de base de données réalisé en SQL.
 - MySQL
 - XAMPP
 - phpMyAdmin
+## Auteur
+Victoire SETONDJI
